@@ -1,0 +1,12 @@
+# Ignore Mac OS metadata
+.DS_Store
+
+# Ignore Visual Studio cache
+.vs/
+*.ipch
+*.vcxproj.user
+
+# Ignore build outputs
+x64/
+*.obj
+*.exe
